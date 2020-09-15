@@ -1,0 +1,19 @@
+body {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.black {
+	height: 400px;
+	width: 235px;
+	background-color: black;
+	color: white;
+	cursor: pointer;
+	color: white;
+	text-align: center;
+	font-size: 75px;
+}
+
+img {
+	height: 400px;
+}
